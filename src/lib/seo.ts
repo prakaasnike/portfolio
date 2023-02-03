@@ -32,8 +32,8 @@ export function useSeoProps(
 		},
 		twitter: {
 			cardType: 'summary_large_image',
-			handle: '@prakaasnike',
-			site: '@prakaasnike',
+			handle: '@erprakashnayak',
+			site: '@erprakashnayak',
 		},
 		...props,
 	};

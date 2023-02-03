@@ -59,7 +59,7 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 			type: NavigationItemType.LINK,
 			icon: 'feather:github',
 			text: 'GitHub',
-			href: 'https://github.com/nurodev',
+			href: 'https://github.com/prakaasnike',
 			external: true,
 		},
 	],
