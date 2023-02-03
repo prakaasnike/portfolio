@@ -1,20 +1,32 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
 	"version": 2,
-	"alias": "nuro.dev",
+	"alias": "prakash",
 	"cleanUrls": true,
 	"public": true,
-	"regions": ["lhr1"],
+	"regions": [
+		"lhr1"
+	],
 	"redirects": [
-		{ "source": "/cv", "destination": "https://read.cv/nuro" },
-		{ "source": "/github", "destination": "https://github.com/nurodev" },
-		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/nurodev" },
-		{ "source": "/portfolio", "destination": "/projects" },
-		{ "source": "/resume", "destination": "https://read.cv/nuro" },
-		{ "source": "/twitter", "destination": "https://twitter.com/nurodev" },
+		{
+			"source": "/github",
+			"destination": "https://github.com/prakaasnike"
+		},
+		{
+			"source": "/linkedin",
+			"destination": "https://www.linkedin.com/in/erprakashnayak/"
+		},
+		{
+			"source": "/portfolio",
+			"destination": "/projects"
+		},
+		{
+			"source": "/twitter",
+			"destination": "https://twitter.com/erprakashnayak"
+		},
 		{
 			"source": "/contact",
-			"destination": "https://twitter.com/direct_messages/create/nurodev"
+			"destination": "https://twitter.com/direct_messages/create/erprakashnayak"
 		}
 	]
 }
