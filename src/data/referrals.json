@@ -1,0 +1,34 @@
+[
+	{
+		"aliases": [
+			"crypto",
+			"bitcoin"
+		],
+		"bonus": "Free $10 in Bitcoin",
+		"code": "CPA_0018IJHRUE",
+		"color": "#f3c743",
+		"description": "Jump start your crypto portfolio",
+		"homepage": "https://www.binance.com",
+		"icon": "heroicons-outline:currency-dollar",
+		"name": "Binance",
+		"url": "https://www.binance.com/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0018IJHRUE"
+	},
+	{
+		"color": "black",
+		"description": "Develop. Preview. Ship.",
+		"homepage": "https://vercel.com/home",
+		"icon": "heroicons-outline:cloud",
+		"name": "Vercel",
+		"url": "#"
+	},
+	{
+		"bonus": "Free $10 credit over 30 days",
+		"code": "12345678",
+		"color": "#007bfc",
+		"description": "Deploy public cloud, storage & single tenant bare metal services",
+		"homepage": "https://vultr.com",
+		"icon": "heroicons-outline:server",
+		"name": "Vultr",
+		"url": "#"
+	}
+]

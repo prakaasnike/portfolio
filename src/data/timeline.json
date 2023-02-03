@@ -1,0 +1,36 @@
+[
+	{
+		"date": "01-01-2022",
+		"title": "Launched portfolio",
+		"description": "Successfully launched my portfolio",
+		"icon": "feather:award"
+	},
+	{
+		"date": "10-30-2018",
+		"title": "First Developer Role",
+		"description": "Began an as a junior developer working at Insight Technology",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "Insight Technology Pvt. Ltd.",
+			"url": "https://insighttechintl.com/"
+		}
+	},
+	{
+		"date": "09-20-2018",
+		"title": "Graduated University!",
+		"description": "Successfully completed my Bachelor's Degree",
+		"icon": "feather:award"
+	},
+	{
+		"date": "08-10-2014",
+		"title": "Start University",
+		"description": "Began studying at VTU BMSIT&M",
+		"icon": "feather:book"
+	},
+	{
+		"date": "02-04-1995",
+		"title": "Birthday!",
+		"description": "I was born on 4th of February 1995",
+		"icon": "feather:gift"
+	}
+]
